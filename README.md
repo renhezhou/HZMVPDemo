@@ -1,2 +1,2 @@
 # HZMVPDemo
-Android_MVP是一个采用mvp模式架构的app框架。封装了xutils的网络请求内容。只需要做少量配置即可用于你的实际项目架构。
+HZMVPDemo是一个采用mvp模式架构的app框架，简单易懂，注释清楚明了。封装了xutils的网络请求内容。只需要做少量配置即可用于你的实际项目架构。
